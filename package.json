@@ -111,7 +111,7 @@
     "victory-stack": "^37.3.2",
     "victory-tooltip": "^37.3.2",
     "victory-voronoi-container": "^37.3.2",
-    "webpack": "5.91.0",
+    "webpack": "5.104.1",
     "webpack-cli": "4.10.x",
     "webpack-dev-server": "^4.7.4"
   },
